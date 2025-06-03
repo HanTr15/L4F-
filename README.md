@@ -10,7 +10,6 @@ Aplikasi GUI sederhana untuk melakukan brute-force password file ZIP menggunakan
 - Dukungan file ZIP dengan enkripsi ZipCrypto
 - Log proses brute-force secara real-time
 - Tidak memerlukan library eksternal
-- Bisa dikonversi ke .exe
 
 ---
 
