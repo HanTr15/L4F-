@@ -17,7 +17,7 @@ Aplikasi GUI sederhana untuk melakukan brute-force password file ZIP menggunakan
 ## ⚙ Cara Menjalankan (Python)
 
 1. Pastikan Python 3 sudah terinstal.
-2. Clone atau unduh repositori ini.
+2. unduh 'zipbruteforce.py' di repositori ini.
 3. Jalankan script:
 ```bash
 python zipbruteforce.py
